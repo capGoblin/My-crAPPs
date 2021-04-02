@@ -1,4 +1,4 @@
-# A Magic Calculator that displays any phone number you like when you press the equals sign. PuNk your Friends!
+# A Magical Calculator that displays any phone number you like when you press the equals sign. PuNk your Friends!
 A new Flutter project created with FlutLab
 
 Getting Started: FlutLab - Flutter Online IDE
