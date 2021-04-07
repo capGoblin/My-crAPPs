@@ -1,6 +1,6 @@
 # A Magical Calculator that displays any phone number you like when you press the equals sign. PuNk your Friends!
-My Hello World Flutter Apps...
-A new Flutter project created with FlutLab
+My Hello World Flutter App...
+A Flutter project created with FlutLab
 
 Getting Started: FlutLab - Flutter Online IDE
 Watch Mini crash course "How to use Flutter Widgets" on FlutLab Youtube Channel
